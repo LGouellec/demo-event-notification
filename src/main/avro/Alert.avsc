@@ -1,0 +1,23 @@
+{
+  "namespace": "org.example.demo.avro",
+  "type": "record",
+  "name": "Alert",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "type",
+      "type": "string"
+    },
+    {
+      "name": "ruleId",
+      "type": "int"
+    },
+    {
+      "name": "device",
+      "type": "string"
+    }
+  ]
+}

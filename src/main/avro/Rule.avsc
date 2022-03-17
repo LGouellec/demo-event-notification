@@ -1,0 +1,19 @@
+{
+  "namespace": "org.example.demo.avro",
+  "type": "record",
+  "name": "Rule",
+  "fields": [
+    {
+      "name": "ruleId",
+      "type": "int"
+    },
+    {
+      "name": "description",
+      "type": "string"
+    },
+    {
+      "name": "destination",
+      "type": "string"
+    }
+  ]
+}
