@@ -1,8 +1,0 @@
-/Users/slegouellec/workshops/demo-event-notification/src/main/java/org/example/demo/Rule.java
-/Users/slegouellec/workshops/demo-event-notification/src/main/java/org/example/demo/serdes/JsonDeserializer.java
-/Users/slegouellec/workshops/demo-event-notification/src/main/java/org/example/demo/Alert.java
-/Users/slegouellec/workshops/demo-event-notification/src/main/java/org/example/demo/AlertRule.java
-/Users/slegouellec/workshops/demo-event-notification/src/main/java/org/example/demo/serdes/CustomSerdes.java
-/Users/slegouellec/workshops/demo-event-notification/src/main/java/org/example/demo/Main.java
-/Users/slegouellec/workshops/demo-event-notification/src/main/java/org/example/demo/Notification.java
-/Users/slegouellec/workshops/demo-event-notification/src/main/java/org/example/demo/serdes/JsonSerializer.java
