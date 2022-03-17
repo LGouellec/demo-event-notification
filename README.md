@@ -16,7 +16,7 @@ Demo event notification
 Visit http://localhost:8082
 
 Produce one alert into `alert` topic :
-``` json
+```
 {
   "name": "Alert HTV",
   "type": "HIGH",
